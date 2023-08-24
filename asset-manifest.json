@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6073355.css",
+    "main.js": "/static/js/main.f1678fba.js",
+    "static/js/787.60b1005f.chunk.js": "/static/js/787.60b1005f.chunk.js",
+    "static/media/RoseOfSharon.ttf": "/static/media/RoseOfSharon.a601364008bb403cd1fc.ttf",
+    "static/media/Fun.mp4": "/static/media/Fun.d1316699b36bd15c8abd.mp4",
+    "static/media/UahageLogo.png": "/static/media/UahageLogo.6fc4777082cba42d857a.png",
+    "static/media/QuestionLogo.png": "/static/media/QuestionLogo.79338187a56f83848a73.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/ArrowLeft.svg": "/static/media/ArrowLeft.abb186b2b72059b5a47b53f470f6c655.svg",
+    "static/media/ArrowRight.svg": "/static/media/ArrowRight.d82d4606f64f5d097b77a051bcfba638.svg",
+    "main.d6073355.css.map": "/static/css/main.d6073355.css.map",
+    "main.f1678fba.js.map": "/static/js/main.f1678fba.js.map",
+    "787.60b1005f.chunk.js.map": "/static/js/787.60b1005f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6073355.css",
+    "static/js/main.f1678fba.js"
+  ]
+}
