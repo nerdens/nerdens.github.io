@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.54b8e5c6.css",
-    "main.js": "/static/js/main.745e1047.js",
+    "main.css": "/static/css/main.2bac65b5.css",
+    "main.js": "/static/js/main.794816ab.js",
     "static/js/787.60b1005f.chunk.js": "/static/js/787.60b1005f.chunk.js",
     "static/media/KyoboPSW.ttf": "/static/media/KyoboPSW.b7d9784ef1c7a237cc4b.ttf",
     "static/media/Fun.mp4": "/static/media/Fun.bc0dbf3ba44207618d6a.mp4",
+    "static/media/NerdensSplash.jpg": "/static/media/NerdensSplash.8de9da8678a7233cb7d8.jpg",
     "static/media/LanglyToeflLogo.jpg": "/static/media/LanglyToeflLogo.0fc4ff1e564e279c4ed0.jpg",
     "static/media/TagDiaryLogo.jpg": "/static/media/TagDiaryLogo.0cb22166c561594a6117.jpg",
     "static/media/QuestionLogo.png": "/static/media/QuestionLogo.79338187a56f83848a73.png",
@@ -17,12 +18,12 @@
     "index.html": "/index.html",
     "static/media/ArrowLeft.svg": "/static/media/ArrowLeft.abb186b2b72059b5a47b53f470f6c655.svg",
     "static/media/ArrowRight.svg": "/static/media/ArrowRight.d82d4606f64f5d097b77a051bcfba638.svg",
-    "main.54b8e5c6.css.map": "/static/css/main.54b8e5c6.css.map",
-    "main.745e1047.js.map": "/static/js/main.745e1047.js.map",
+    "main.2bac65b5.css.map": "/static/css/main.2bac65b5.css.map",
+    "main.794816ab.js.map": "/static/js/main.794816ab.js.map",
     "787.60b1005f.chunk.js.map": "/static/js/787.60b1005f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b8e5c6.css",
-    "static/js/main.745e1047.js"
+    "static/css/main.2bac65b5.css",
+    "static/js/main.794816ab.js"
   ]
 }
