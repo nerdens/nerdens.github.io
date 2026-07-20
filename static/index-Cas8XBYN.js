@@ -71,6 +71,7 @@ Error generating stack: `+o.message+`
   color: #ff5a3c;
 `,ng=R.nav`
   display: flex;
+  align-items: center;
   gap: 2rem;
 
   @media (max-width: 640px) {
