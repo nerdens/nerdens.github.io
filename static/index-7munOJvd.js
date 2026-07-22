@@ -88,6 +88,10 @@ Error generating stack: `+o.message+`
   &:hover {
     color: var(--ink);
   }
+
+  @media (max-width: 640px) {
+    display: none;
+  }
 `,lg=O.button`
   font-family: var(--font-display);
   font-size: 0.82rem;
